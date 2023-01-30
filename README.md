@@ -10,7 +10,7 @@ When the input changes (goes from high to low or low to high), a short pulse is 
 
 ![mnL7V](https://user-images.githubusercontent.com/313427/215360746-bf435abf-e21a-4aa5-8b4a-81841f77af7a.png)
 
-Note: The blue line is mis-labeled as Q1, and should read Q3.
+Note: The blue line above is mis-labeled as Q1, and should read Q3.
 
 ![MbJCn](https://user-images.githubusercontent.com/313427/215360752-3640857b-7d23-4961-aad8-e682eb83f012.png)
 
