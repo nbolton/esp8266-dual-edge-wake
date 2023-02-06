@@ -1,8 +1,8 @@
-**Important:** The current design does not work, see issue https://github.com/nbolton/esp8266-dual-edge-wake/issues/2.
-
 # ESP8266 dual edge wake
 
 This module will wake an ESP8266 from deep sleep when a sensor value changes (e.g. push button, float sensor, or other reed sensor). 
+
+**Disclaimer:** If you need to do this, then you should probably use a different MCU that supports deep sleep interrupt on edge. But, if like me, you bought many ESP8266s and want to use them in a project where you have this requirement...
 
 Connect input to the sensor, and output to the RST pin on the ESP8266.
 
