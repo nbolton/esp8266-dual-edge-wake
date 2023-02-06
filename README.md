@@ -24,8 +24,10 @@ Solder the circuit jumper to choose between circuit A or B (the center pad is th
 For circuit A, solder either the leading or falling jumper (or both can be soldered to pulse on both edges).
 For circuit B, a pulse will always be generated on both edges.
 
-VCC should be 3.3 V (but probaly works at 2 V), and can probably be 5 V.
+VCC min 2.5 V, max 6.0 V.
 
 Example use case: Wake your ESP8266 and report a float sensor value change (e.g. when a water tank is full).
 
-![image](https://user-images.githubusercontent.com/313427/215361265-8ce4b103-f87c-48af-97a9-c66cca0cb98f.png)
+![IMG_4267](https://user-images.githubusercontent.com/313427/217043657-98af805b-a553-45fe-a37e-39dfdaa4d4b1.jpg)
+
+*Note: Resistor bodge was needed for board Rev 1 (now obsolete, replaced by Rev 1b which fixed the issue).*
