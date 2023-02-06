@@ -8,6 +8,8 @@ Connect input to the sensor, and output to the RST pin on the ESP8266.
 
 <img width="382" alt="Screenshot 2023-01-29 at 23 00 59" src="https://user-images.githubusercontent.com/313427/215360613-dd6d202e-2c78-45f2-ac10-465c2957697e.png">
 
+*Note: Above is Rev 1 (latest is Rev 1a)*
+
 When the input changes (goes from high to low or low to high), a short pulse is generated on the output which wakes the ESP8266 from deep sleep.
 
 ![mnL7V](https://user-images.githubusercontent.com/313427/215360746-bf435abf-e21a-4aa5-8b4a-81841f77af7a.png)
