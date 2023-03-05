@@ -1652,6 +1652,9 @@
   (gr_text "B" (at 98.0026 51.562) (layer "F.SilkS") (tstamp fbb6ed39-b976-47e0-8ece-79d4f873fa8f)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (gr_text "TODO: Put jumpers on back of module" (at 104.902 45.72) (layer "Cmts.User") (tstamp cfee5369-8b47-4db0-87bc-1690a62a0ae1)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
 
   (segment (start 105.283 52.959) (end 106.553 52.959) (width 0.25) (layer "F.Cu") (net 1) (tstamp 25ca08ae-b734-4378-adc5-dda56bb61059))
   (segment (start 103.012 53.848) (end 104.394 53.848) (width 0.25) (layer "F.Cu") (net 1) (tstamp 647ec8d3-7940-43ce-87ff-b65b4a5eda96))
